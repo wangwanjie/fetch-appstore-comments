@@ -7,6 +7,10 @@ python3 ./splider.py
 ```
 输入 appid，应用名自定义
 
+# Effect
+![效果图](https://raw.githubusercontent.com/wangwanjie/fetch-appstore-comments/master/snapshots/example.jpg)
+
+
 # LICENCE
 MIT License
 
