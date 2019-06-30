@@ -6,10 +6,16 @@
 	- 写入 Excel 前调用谷歌翻译 API 翻译评论内容为中文
  
 # Run
+## for App Store
 ```
 python3 ./splider.py
 ```
 输入 appid，应用名自定义
+
+## for Google Play
+```
+node index.js
+```
 
 # Effect
 ![效果图](https://raw.githubusercontent.com/wangwanjie/fetch-appstore-comments/master/snapshots/example.jpg)
