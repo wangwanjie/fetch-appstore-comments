@@ -1,5 +1,9 @@
 # fetch-appstore-comments
-抓取 App Store 应用的最新500条评论生成 Excel
+支持：
+
+	- 抓取 App Store 应用的最新500条评论生成 Excel
+	- 抓取 Google Play 应用的任意条评论生成 Excel
+	- 写入 Excel 前调用谷歌翻译 API 翻译评论内容为中文
  
 # Run
 ```
@@ -9,6 +13,8 @@ python3 ./splider.py
 
 # Effect
 ![效果图](https://raw.githubusercontent.com/wangwanjie/fetch-appstore-comments/master/snapshots/example.jpg)
+
+![效果图](https://raw.githubusercontent.com/wangwanjie/fetch-appstore-comments/master/snapshots/google_play.jpg)
 
 
 # LICENCE

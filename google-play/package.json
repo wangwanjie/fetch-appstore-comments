@@ -1,0 +1,14 @@
+{
+  "name": "google-play",
+  "version": "1.0.0",
+  "description": "爬取 google-play 应用信息",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 || eslint . || npm audit"
+  },
+  "author": "VanJay",
+  "license": "ISC",
+  "dependencies": {
+    "google-play-scraper": "^6.2.6"
+  }
+}
